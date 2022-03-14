@@ -1,4 +1,4 @@
-# Learn2BasicR
+
 R공부
 
 JK<-c("인쌤TV","UX","개발자")
